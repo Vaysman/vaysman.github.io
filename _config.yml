@@ -98,3 +98,6 @@ google_analytics_tracking_id:
 
 # Facebook Like
 facebook_like: true
+
+# Gravatar
+email_md5: ffe802ef9864f8a785b49544506d84a8

@@ -90,8 +90,8 @@ delicious_user: wml
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name:
-disqus_show_comment_count: false
+disqus_short_name: vaysman
+disqus_show_comment_count: true
 
 # LinkedIn
 linkedin_user: mvaysman

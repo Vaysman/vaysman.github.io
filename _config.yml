@@ -97,7 +97,7 @@ disqus_show_comment_count: true
 linkedin_user: mvaysman
 
 # Google Analytics
-google_analytics_tracking_id:
+google_analytics_tracking_id: UA-51732874-1
 
 # Facebook Like
 facebook_like: true

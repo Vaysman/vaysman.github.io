@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: book | Чёпопало о чёмнеподя]]></title>
-  <link href="http://Vaysman.github.io/blog/categories/book/atom.xml" rel="self"/>
+  <title><![CDATA[Category: must read | Чёпопало о чёмнеподя]]></title>
+  <link href="http://Vaysman.github.io/blog/categories/must-read/atom.xml" rel="self"/>
   <link href="http://Vaysman.github.io/"/>
   <updated>2014-06-13T00:42:22+04:00</updated>
   <id>http://Vaysman.github.io/</id>
@@ -52,39 +52,6 @@
 
 
 <p>Продолжение следует&hellip;</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Книги для изучения Java с нуля]]></title>
-    <link href="http://Vaysman.github.io/blog/2014/06/11/knighi-dlia-izuchieniia-java-s-nulia/"/>
-    <updated>2014-06-11T10:00:00+04:00</updated>
-    <id>http://Vaysman.github.io/blog/2014/06/11/knighi-dlia-izuchieniia-java-s-nulia</id>
-    <content type="html"><![CDATA[<p>Если вы не знаете Java, то я рекомендую прочесть одну(или все) из этих книг. Лучше прочесть несколько раз. Первый раз бегло, сильно не вникая и не выполняя задания. А второй раз внимательно и выполняя все задания. Если задание не получается,
-то обязательно воспользуйтесь поиском и выясните в чем проблема.</p>
-
-<p>Если книга у вас не идет, то попробуйте почитать другую. Может быть другой автор вам больше подходит.</p>
-
-<p>Книги лучше читать в оригинале, а не в переводе. Так можно избежать ошибок перевода и получить свежую информацию.</p>
-
-<!-- more -->
-
-
-<p>Если у вас есть дополнения к списку, то пишите о них в комментариях ниже. Я с удовольствием добавлю киги в список.</p>
-
-<h2>Список</h2>
-
-<ol>
-<li>Herbert Schildt <a href="http://www.amazon.com/Java-Complete-Reference-Ninth-Edition-ebook/dp/B00HSO0X6C">&ldquo;Java: The Complete Reference&rdquo;</a><br/>
-Герберт Шилдт <a href="http://www.ozon.ru/context/detail/id/8237920/">&ldquo;Java. Полное руководство&rdquo;</a></li>
-<li>Кей С. Хорстманн, Гари Корнелл <a href="http://www.ozon.ru/context/detail/id/25151213/">&ldquo;Java 2. Библиотека профессионала. Том 1. Основы.&rdquo;</a>, <a href="http://www.ozon.ru/context/detail/id/25151190/">&ldquo;Java. Библиотека профессионала. Том 2. Расширенные средства программирования.&rdquo;</a><br/>
-Cay S. Horstmann, Gary Cornell <a href="http://www.amazon.com/Core-Java-I--Fundamentals-9th-ebook/dp/B00ADQC2T8">&ldquo;Core Java Volume I&mdash;Fundamentals&rdquo;</a>, <a href="http://www.amazon.com/Core-Volume-II-Advanced-Features-Edition-ebook/dp/B00BNA1SHA">&ldquo;Core Java, Volume II&mdash;Advanced Features&rdquo;</a></li>
-<li>Kathy Sierra, Bert Bates <a href="http://www.amazon.com/Head-First-Java-Kathy-Sierra-ebook/dp/B009KCUX3S">&ldquo;Head First Java&rdquo;</a><br/>
-Кэти Сиерра, Берт Бейтс <a href="http://www.ozon.ru/context/detail/id/7821666/">&ldquo;Изучаем Java&rdquo;</a></li>
-<li>Bruce Eckel <a href="http://www.mindviewinc.com/Books/TIJ4/PurchaseBook.php">&ldquo;Thinking in Java, 4th Edition&rdquo;</a>, <a href="http://www.mindview.net/Books/TIJ/">&ldquo;Thinking in Java, 3rd Edition (FREE)&rdquo;</a><br/>
-Брюс Эккель <a href="http://www.ozon.ru/context/detail/id/25101072/">&ldquo;Философия Java&rdquo;</a></li>
-</ol>
-
 ]]></content>
   </entry>
   

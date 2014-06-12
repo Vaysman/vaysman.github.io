@@ -4,7 +4,7 @@
   <title><![CDATA[Чёпопало о чёмнеподя]]></title>
   <link href="http://Vaysman.github.io/atom.xml" rel="self"/>
   <link href="http://Vaysman.github.io/"/>
-  <updated>2014-06-12T17:05:34+04:00</updated>
+  <updated>2014-06-12T17:07:44+04:00</updated>
   <id>http://Vaysman.github.io/</id>
   <author>
     <name><![CDATA[Mikhail Vaysman]]></name>
@@ -12,24 +12,6 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[Книги которые стоит прочесть каждому начинающем. Часть 1.]]></title>
-    <link href="http://Vaysman.github.io/blog/2014/06/12/knighi-kotoryie-stoit-prochiest-kazhdomu-nachinaiushchiemu/"/>
-    <updated>2014-06-12T13:19:55+04:00</updated>
-    <id>http://Vaysman.github.io/blog/2014/06/12/knighi-kotoryie-stoit-prochiest-kazhdomu-nachinaiushchiemu</id>
-    <content type="html"><![CDATA[<p>В начале я думал назвать эту запись: 10 книг которые стоит прочесть каждому начинающему. Но начав перечислять, я обнаружил,
-что их больше, чем 10. Так что я решил убрать число из названия. Но фраза &ldquo;Часть 1&rdquo; намекает на продолжение этого списка.</p>
-
-<p>Книги перечислины без какой-то системы, просто как вспоминалось. Все книги рекомендую читать в оригинале, а не в переводе.
-Так же настоятельно рекомендую покупать книги. Тем самым вы поддержите авторов и снизите цену.</p>
-
-<!-- more -->
-
-
-<p>Я предпологаю, что основы Java вам известны, если это не так, то прочтите пост <a href="">Книги для изучения Java с нуля</a></p>
-]]></content>
-  </entry>
   
   <entry>
     <title type="html"><![CDATA[Книги для изучения Java с нуля]]></title>

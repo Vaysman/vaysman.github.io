@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Чёпопало о чёмнеподя]]></title>
-  <link href="http://Vaysman.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: book | Чёпопало о чёмнеподя]]></title>
+  <link href="http://Vaysman.github.io/blog/categories/book/atom.xml" rel="self"/>
   <link href="http://Vaysman.github.io/"/>
   <updated>2014-06-12T17:05:34+04:00</updated>
   <id>http://Vaysman.github.io/</id>
@@ -61,17 +61,6 @@ Cay S. Horstmann, Gary Cornell <a href="http://www.amazon.com/Core-Java-I--Funda
 Брюс Эккель <a href="http://www.ozon.ru/context/detail/id/25101072/">&ldquo;Философия Java&rdquo;</a></li>
 </ol>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Первый пост]]></title>
-    <link href="http://Vaysman.github.io/blog/2014/05/30/piervyi-post/"/>
-    <updated>2014-05-30T01:18:36+04:00</updated>
-    <id>http://Vaysman.github.io/blog/2014/05/30/piervyi-post</id>
-    <content type="html"><![CDATA[<h2>Объяснялка</h2>
-
-<p>Проверяю как как работает офорление и прочие штуки</p>
 ]]></content>
   </entry>
   

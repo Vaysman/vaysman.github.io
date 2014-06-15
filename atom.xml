@@ -4,7 +4,7 @@
   <title><![CDATA[Чёпопало о чёмнеподя]]></title>
   <link href="http://Vaysman.github.io/atom.xml" rel="self"/>
   <link href="http://Vaysman.github.io/"/>
-  <updated>2014-06-14T18:09:29+04:00</updated>
+  <updated>2014-06-15T22:37:12+00:00</updated>
   <id>http://Vaysman.github.io/</id>
   <author>
     <name><![CDATA[Mikhail Vaysman]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[Книги которые стоит прочесть каждому начинающем. Часть 1.]]></title>
     <link href="http://Vaysman.github.io/blog/2014/06/12/knighi-kotoryie-stoit-prochiest-kazhdomu-nachinaiushchiemu/"/>
-    <updated>2014-06-12T13:19:55+04:00</updated>
+    <updated>2014-06-12T09:19:55+00:00</updated>
     <id>http://Vaysman.github.io/blog/2014/06/12/knighi-kotoryie-stoit-prochiest-kazhdomu-nachinaiushchiemu</id>
     <content type="html"><![CDATA[<p>В начале я думал назвать эту запись: 10 книг которые стоит прочесть каждому начинающему разработчику. Но начав перечислять, я обнаружил,
 что их больше, чем 10. Так что я решил убрать число из названия. Но фраза &ldquo;Часть 1&rdquo; намекает на продолжение этого списка.</p>
@@ -43,7 +43,7 @@
 <li>Steve McConnell <a href="http://www.amazon.com/Code-Complete-Developer-Best-Practices-ebook/dp/B00JDMPOSY">&ldquo;Code Complete (2nd Edition) (Developer Best Practices)&rdquo;</a><br/>
 Эту книгу можно пропустить и вместо нее прочитать &ldquo;Clean Code&rdquo;.</li>
 <li>Robert C. “Uncle Bob” Martin <a href="http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship-ebook/dp/B001GSTOAM">&ldquo;Clean Code: A Handbook of Agile Software Craftsmanship&rdquo;</a><br/>
-Это книгу надо обязательно прочитать! Это книга не о коде, а о том как код взаимодествует с людми. О том как выражать свои идеи в коде так, что бы было понятно другим.</li>
+Это книгу надо обязательно прочитать! Это книга не о коде, а о том как код взаимодествует с людьми. О том как выражать свои идеи в коде так, что бы было понятно другим.</li>
 <li>Robert C. “Uncle Bob” Martin <a href="http://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers-ebook/dp/B0050JLC9Y">&ldquo;The Clean Coder: A Code of Conduct for Professional Programmers&rdquo;</a><br/>
 В некотором роде продолжение предыдущей книги.</li>
 <li>Kent Beck <a href="http://www.amazon.com/Smalltalk-Best-Practice-Patterns-Kent-ebook/dp/B00BBDLIME">&ldquo;Smalltalk Best Practice Patterns&rdquo;</a><br/>
@@ -58,7 +58,7 @@
   <entry>
     <title type="html"><![CDATA[Книги для изучения Java с нуля]]></title>
     <link href="http://Vaysman.github.io/blog/2014/06/11/knighi-dlia-izuchieniia-java-s-nulia/"/>
-    <updated>2014-06-11T10:00:00+04:00</updated>
+    <updated>2014-06-11T06:00:00+00:00</updated>
     <id>http://Vaysman.github.io/blog/2014/06/11/knighi-dlia-izuchieniia-java-s-nulia</id>
     <content type="html"><![CDATA[<p>Если вы не знаете Java, то я рекомендую прочесть одну(или все) из этих книг. Лучше прочесть несколько раз. Первый раз бегло, сильно не вникая и не выполняя задания. А второй раз внимательно и выполняя все задания. Если задание не получается,
 то обязательно воспользуйтесь поиском и выясните в чем проблема.</p>
@@ -70,7 +70,7 @@
 <!-- more -->
 
 
-<p>Если у вас есть дополнения к списку, то пишите о них в комментариях ниже. Я с удовольствием добавлю книги в список.</p>
+<p>Если у вас есть дополнения к списку, то пишите о них в комментариях ниже. Я с удовольствием добавлю киги в список.</p>
 
 <h2>Список</h2>
 
@@ -85,6 +85,17 @@ Cay S. Horstmann, Gary Cornell <a href="http://www.amazon.com/Core-Java-I--Funda
 Брюс Эккель <a href="http://www.ozon.ru/context/detail/id/25101072/">&ldquo;Философия Java&rdquo;</a></li>
 </ol>
 
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Первый пост]]></title>
+    <link href="http://Vaysman.github.io/blog/2014/05/29/piervyi-post/"/>
+    <updated>2014-05-29T21:18:36+00:00</updated>
+    <id>http://Vaysman.github.io/blog/2014/05/29/piervyi-post</id>
+    <content type="html"><![CDATA[<h2>Объяснялка</h2>
+
+<p>Проверяю как как работает офорление и прочие штуки</p>
 ]]></content>
   </entry>
   

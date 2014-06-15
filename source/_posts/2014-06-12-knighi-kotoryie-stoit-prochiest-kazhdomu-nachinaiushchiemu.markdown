@@ -30,7 +30,7 @@ categories: [book, newbie, must read]
 - Steve McConnell ["Code Complete (2nd Edition) (Developer Best Practices)"](http://www.amazon.com/Code-Complete-Developer-Best-Practices-ebook/dp/B00JDMPOSY)  
 Эту книгу можно пропустить и вместо нее прочитать "Clean Code".
 - Robert C. “Uncle Bob” Martin ["Clean Code: A Handbook of Agile Software Craftsmanship"](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship-ebook/dp/B001GSTOAM)  
-Это книгу надо обязательно прочитать! Это книга не о коде, а о том как код взаимодествует с людми. О том как выражать свои идеи в коде так, что бы было понятно другим. 
+Это книгу надо обязательно прочитать! Это книга не о коде, а о том как код взаимодествует с людьми. О том как выражать свои идеи в коде так, что бы было понятно другим. 
 - Robert C. “Uncle Bob” Martin ["The Clean Coder: A Code of Conduct for Professional Programmers"](http://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers-ebook/dp/B0050JLC9Y)  
 В некотором роде продолжение предыдущей книги. 
 - Kent Beck ["Smalltalk Best Practice Patterns"](http://www.amazon.com/Smalltalk-Best-Practice-Patterns-Kent-ebook/dp/B00BBDLIME)  

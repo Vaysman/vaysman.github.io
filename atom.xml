@@ -4,7 +4,7 @@
   <title><![CDATA[Чёпопало о чёмнеподя]]></title>
   <link href="http://Vaysman.github.io/atom.xml" rel="self"/>
   <link href="http://Vaysman.github.io/"/>
-  <updated>2014-06-16T14:25:00+00:00</updated>
+  <updated>2014-06-17T03:13:48+04:00</updated>
   <id>http://Vaysman.github.io/</id>
   <author>
     <name><![CDATA[Mikhail Vaysman]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[Книги которые стоит прочесть каждому начинающем. Часть 1.]]></title>
     <link href="http://Vaysman.github.io/blog/2014/06/12/knighi-kotoryie-stoit-prochiest-kazhdomu-nachinaiushchiemu/"/>
-    <updated>2014-06-12T09:19:55+00:00</updated>
+    <updated>2014-06-12T13:19:55+04:00</updated>
     <id>http://Vaysman.github.io/blog/2014/06/12/knighi-kotoryie-stoit-prochiest-kazhdomu-nachinaiushchiemu</id>
     <content type="html"><![CDATA[<p>В начале я думал назвать эту запись: 10 книг которые стоит прочесть каждому начинающему разработчику. Но начав перечислять, я обнаружил,
 что их больше, чем 10. Так что я решил убрать число из названия. Но фраза &ldquo;Часть 1&rdquo; намекает на продолжение этого списка.</p>
@@ -58,7 +58,7 @@
   <entry>
     <title type="html"><![CDATA[Книги для изучения Java с нуля]]></title>
     <link href="http://Vaysman.github.io/blog/2014/06/11/knighi-dlia-izuchieniia-java-s-nulia/"/>
-    <updated>2014-06-11T06:00:00+00:00</updated>
+    <updated>2014-06-11T10:00:00+04:00</updated>
     <id>http://Vaysman.github.io/blog/2014/06/11/knighi-dlia-izuchieniia-java-s-nulia</id>
     <content type="html"><![CDATA[<p>Если вы не знаете Java, то я рекомендую прочесть одну(или все) из этих книг. Лучше прочесть несколько раз. Первый раз бегло, сильно не вникая и не выполняя задания. А второй раз внимательно и выполняя все задания. Если задание не получается,
 то обязательно воспользуйтесь поиском и выясните в чем проблема.</p>
@@ -70,7 +70,7 @@
 <!-- more -->
 
 
-<p>Если у вас есть дополнения к списку, то пишите о них в комментариях ниже. Я с удовольствием добавлю киги в список.</p>
+<p>Если у вас есть дополнения к списку, то пишите о них в комментариях ниже. Я с удовольствием добавлю книги в список.</p>
 
 <h2>Список</h2>
 
@@ -85,17 +85,6 @@ Cay S. Horstmann, Gary Cornell <a href="http://www.amazon.com/Core-Java-I--Funda
 Брюс Эккель <a href="http://www.ozon.ru/context/detail/id/25101072/">&ldquo;Философия Java&rdquo;</a></li>
 </ol>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Первый пост]]></title>
-    <link href="http://Vaysman.github.io/blog/2014/05/29/piervyi-post/"/>
-    <updated>2014-05-29T21:18:36+00:00</updated>
-    <id>http://Vaysman.github.io/blog/2014/05/29/piervyi-post</id>
-    <content type="html"><![CDATA[<h2>Объяснялка</h2>
-
-<p>Проверяю как как работает офорление и прочие штуки</p>
 ]]></content>
   </entry>
   

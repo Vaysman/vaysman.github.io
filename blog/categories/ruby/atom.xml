@@ -4,7 +4,7 @@
   <title><![CDATA[Category: ruby | Чёпопало о чёмнеподя]]></title>
   <link href="http://Vaysman.github.io/blog/categories/ruby/atom.xml" rel="self"/>
   <link href="http://Vaysman.github.io/"/>
-  <updated>2014-06-18T22:10:28+00:00</updated>
+  <updated>2014-06-19T21:25:16+00:00</updated>
   <id>http://Vaysman.github.io/</id>
   <author>
     <name><![CDATA[Mikhail Vaysman]]></name>
@@ -12,6 +12,32 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Книги для изучения Ruby с нуля]]></title>
+    <link href="http://Vaysman.github.io/blog/2014/06/16/knighi-dlia-izucheniia-ruby-s-nulia/"/>
+    <updated>2014-06-16T14:20:23+00:00</updated>
+    <id>http://Vaysman.github.io/blog/2014/06/16/knighi-dlia-izucheniia-ruby-s-nulia</id>
+    <content type="html"><![CDATA[<p><a href="https://www.ruby-lang.org/ru/">Ruby</a> это динамический язык программирования с открытым исходным кодом с упором на простоту и продуктивность. Он обладает элегантным синтаксисом, который приятно читать и легко писать.</p>
+
+<!-- more -->
+
+
+<p>Если вы не знаете <a href="https://www.ruby-lang.org/ru/">Ruby</a>, то я рекомендую прочесть <em>все</em> эти книги. И обязательно выполняйте все задания (если они есть) и экспериментируйте с кодом.</p>
+
+<h2>Список</h2>
+
+<ol>
+<li>Dave Thomas, with Chad Fowler and Andy Hunt <a href="http://pragprog.com/book/ruby4/programming-ruby-1-9-2-0">&ldquo;Programming Ruby 1.9 &amp; 2.0&rdquo;</a><br/>
+Прекрасная книга как для начинающего, так и для тех кто продолжает изучение языка. Помимо языка книга содержит справочник по стандартной библиотеке.</li>
+<li>Russ Olsen <a href="http://www.amazon.com/Eloquent-Ruby-Addison-Wesley-Professional-Series-ebook/dp/B004MMEJ36/">&ldquo;Eloquent Ruby&rdquo;</a><br/>
+Книга не только учит языку, но так же учит стилю и демонстрирует некоторые идиомы свойственные ruby.</li>
+<li>Sandi Metz <a href="http://www.amazon.com/Practical-Object-Oriented-Design-Ruby-Addison-Wesley-ebook/dp/B0096BYG7C">&ldquo;Practical Object-Oriented Design in Ruby&rdquo;</a><br/>
+Эту книгу должен прочитать каждый кто хочет использовать Rubу. Она просто великолепна!</li>
+</ol>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Книги которые стоит прочесть каждому начинающем. Часть 1.]]></title>

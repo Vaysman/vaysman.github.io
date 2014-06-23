@@ -4,7 +4,7 @@
   <title><![CDATA[Category: newbie | Чёпопало о чёмнеподя]]></title>
   <link href="http://Vaysman.github.io/blog/categories/newbie/atom.xml" rel="self"/>
   <link href="http://Vaysman.github.io/"/>
-  <updated>2014-06-19T21:25:16+00:00</updated>
+  <updated>2014-06-23T23:57:04+04:00</updated>
   <id>http://Vaysman.github.io/</id>
   <author>
     <name><![CDATA[Mikhail Vaysman]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[Книги для изучения Ruby с нуля]]></title>
     <link href="http://Vaysman.github.io/blog/2014/06/16/knighi-dlia-izucheniia-ruby-s-nulia/"/>
-    <updated>2014-06-16T14:20:23+00:00</updated>
+    <updated>2014-06-16T18:20:23+04:00</updated>
     <id>http://Vaysman.github.io/blog/2014/06/16/knighi-dlia-izucheniia-ruby-s-nulia</id>
     <content type="html"><![CDATA[<p><a href="https://www.ruby-lang.org/ru/">Ruby</a> это динамический язык программирования с открытым исходным кодом с упором на простоту и продуктивность. Он обладает элегантным синтаксисом, который приятно читать и легко писать.</p>
 
@@ -42,7 +42,7 @@
   <entry>
     <title type="html"><![CDATA[Книги которые стоит прочесть каждому начинающем. Часть 1.]]></title>
     <link href="http://Vaysman.github.io/blog/2014/06/12/knighi-kotoryie-stoit-prochiest-kazhdomu-nachinaiushchiemu/"/>
-    <updated>2014-06-12T09:19:55+00:00</updated>
+    <updated>2014-06-12T13:19:55+04:00</updated>
     <id>http://Vaysman.github.io/blog/2014/06/12/knighi-kotoryie-stoit-prochiest-kazhdomu-nachinaiushchiemu</id>
     <content type="html"><![CDATA[<p>В начале я думал назвать эту запись: 10 книг которые стоит прочесть каждому начинающему разработчику. Но начав перечислять, я обнаружил,
 что их больше, чем 10. Так что я решил убрать число из названия. Но фраза &ldquo;Часть 1&rdquo; намекает на продолжение этого списка.</p>
@@ -84,7 +84,7 @@
   <entry>
     <title type="html"><![CDATA[Книги для изучения Java с нуля]]></title>
     <link href="http://Vaysman.github.io/blog/2014/06/11/knighi-dlia-izuchieniia-java-s-nulia/"/>
-    <updated>2014-06-11T06:00:00+00:00</updated>
+    <updated>2014-06-11T10:00:00+04:00</updated>
     <id>http://Vaysman.github.io/blog/2014/06/11/knighi-dlia-izuchieniia-java-s-nulia</id>
     <content type="html"><![CDATA[<p>Если вы не знаете Java, то я рекомендую прочесть одну(или все) из этих книг. Лучше прочесть несколько раз. Первый раз бегло, сильно не вникая и не выполняя задания. А второй раз внимательно и выполняя все задания. Если задание не получается,
 то обязательно воспользуйтесь поиском и выясните в чем проблема.</p>

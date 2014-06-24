@@ -4,7 +4,7 @@
   <title><![CDATA[Чёпопало о чёмнеподя]]></title>
   <link href="http://Vaysman.github.io/atom.xml" rel="self"/>
   <link href="http://Vaysman.github.io/"/>
-  <updated>2014-06-25T03:05:07+04:00</updated>
+  <updated>2014-06-25T03:06:56+04:00</updated>
   <id>http://Vaysman.github.io/</id>
   <author>
     <name><![CDATA[Mikhail Vaysman]]></name>
@@ -38,7 +38,7 @@
 
 <p>Взять коаны можно на GitHub у меня <a href="https://github.com/Vaysman/java-koans">java-koans</a> или у автора <a href="https://github.com/matyb/java-koans">java-koans</a>.</p>
 
-<p>Для полноценной работы коанов вам понадобится <a href="http://www.oracle.com/technetwork/java/javase/downloads/index.html">JDK</a> и простой текстовый редактор для работы с кодом (даже стандартный Блокнот подойдет). Различные IDE тоже подходят, но большая часть их функций для решения коанов не нужна, и скорее будет мешать.</p>
+<p>Для полноценной работы коанов вам понадобится <a href="http://www.oracle.com/technetwork/java/javase/downloads/index.html">JDK</a> и простой текстовый редактор для работы с кодом (даже стандартный Блокнот подойдет). Различные IDE тоже подходят, но большая часть их функций для решения коанов не нужна, и, скорее, будет мешать.</p>
 
 <h2>Как решать коаны?</h2>
 

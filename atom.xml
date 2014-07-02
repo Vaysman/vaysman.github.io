@@ -4,7 +4,7 @@
   <title><![CDATA[Чёпопало о чёмнеподя]]></title>
   <link href="http://Vaysman.github.io/atom.xml" rel="self"/>
   <link href="http://Vaysman.github.io/"/>
-  <updated>2014-07-01T10:34:32+00:00</updated>
+  <updated>2014-07-02T21:40:47+00:00</updated>
   <id>http://Vaysman.github.io/</id>
   <author>
     <name><![CDATA[Mikhail Vaysman]]></name>
@@ -12,6 +12,49 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Интегрированная среда разработки (IDE)]]></title>
+    <link href="http://Vaysman.github.io/blog/2014/07/02/intieghrirovannaia-srieda-razrabotki-ide/"/>
+    <updated>2014-07-02T21:01:28+00:00</updated>
+    <id>http://Vaysman.github.io/blog/2014/07/02/intieghrirovannaia-srieda-razrabotki-ide</id>
+    <content type="html"><![CDATA[<blockquote><p>Интегрированная среда разработки, ИСР (англ. IDE, Integrated development environment) — система программных средств, используемая программистами для разработки программного обеспечения (ПО).</p><footer><strong>Wikipedia</strong> <cite><a href='http://ru.wikipedia.org/wiki/%D0%98%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F_%D1%81%D1%80%D0%B5%D0%B4%D0%B0_%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B8'>IDE</a></cite></footer></blockquote>
+
+
+
+
+<!-- more -->
+
+
+<h2>Зачем?</h2>
+
+<p>Зачем она (IDE) нужна? Ведь большинство языков позволяют разрабатывать программы в простом редакторе (например, Notepad).</p>
+
+<p>Да, можно и в простом редакторе! Но удобно ли? Любой профессиональный разработчик скажет, что это не удобно.</p>
+
+<p>IDE это не просто редактор с подсветкой синтаксиа, автосохранением и возможностю вызова внешних комманд. IDE это удобный инструмент которые позоволяет вам легко и быстро писать, запускать и отлаживать код. Используя IDE вы уменьшаете количество ошибок и повышаете свою производительность.</p>
+
+<h2>Какую IDE выбрать?</h2>
+
+<p>Сейчас на рынке представлено множество различных IDE. Я рекомендую вам обратить свое внимаение на <a href="http://www.jetbrains.com/idea/">IntellijIDEA</a>.</p>
+
+<p>Этот продукт давно уже вышел за рамки &ldquo;IDE для Java&rdquo; и сейчас поддерживает огромное количество различных языков.</p>
+
+<p>Существут 2 различных вариант этой IDE:
+&ndash; Community Edition &ndash; полностью бесплатная IDE с открытым исходным кодом (всегда можно посмотреть как она написана). Она поддерживает ограниченный набор языков, включая:  Java, Scala, Groovy, Clojure и Kotlin.
+&ndash; Ultimate Edition &ndash; комерческая IDE. Подеррживает огромное количество языков среди них: Java, PHP, JavaScript, ActionScript, Flex &amp; AIR, HTML/XHTML/CSS, XML/XSL, Ruby/ JRuby, Groovy, SQL, FreeMarker/Velocity, Scala</p>
+
+<p>Стоимость последней довольно высока, но существует возможности получить эту IDE соверщшенно бесплатно:
+1. Вы разарабатываете продукт с открытым исходным кодом <a href="http://www.jetbrains.com/idea/buy/choose_edition.jsp?license=OPEN_SOURCE">IntelliJIDEA Open Source License</a>
+1. Вы используете Early Access Preview (EAP) версию <a href="http://confluence.jetbrains.com/display/IDEADEV/EAP">IntelliJIDEA EAP</a></p>
+
+<p>Если вы пойдете по второму пути, то вам прийдется регулятно обновлят IDE, так как срок ееработы ограничен по времени.</p>
+
+<p>Но самый простой и удобный способ &ndash; это приобрести лицензию. Для индивидуального разработчика лицензия стоит $199, а обнавление $99. На первый взгляд сумма кажется большой, но если вы подсчитаете время которое вы с экономите используя IDEA, то вы увидете, что цена уже не выглядит так пугающей.</p>
+
+<p>IDE &ndash; это основной инструмент разработчика. Хороший инструмент будет способствовать увеличению производительности и у величению удовольствия от работы.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Коаны Java — путь к просветлению]]></title>

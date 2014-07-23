@@ -4,7 +4,7 @@
   <title><![CDATA[Category: java | Чёпопало о чёмнеподя]]></title>
   <link href="http://Vaysman.github.io/blog/categories/java/atom.xml" rel="self"/>
   <link href="http://Vaysman.github.io/"/>
-  <updated>2014-07-03T21:02:14+00:00</updated>
+  <updated>2014-07-24T00:26:15+04:00</updated>
   <id>http://Vaysman.github.io/</id>
   <author>
     <name><![CDATA[Mikhail Vaysman]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Интегрированная среда разработки (IDE)]]></title>
-    <link href="http://Vaysman.github.io/blog/2014/07/02/intieghrirovannaia-srieda-razrabotki-ide/"/>
-    <updated>2014-07-02T21:01:28+00:00</updated>
-    <id>http://Vaysman.github.io/blog/2014/07/02/intieghrirovannaia-srieda-razrabotki-ide</id>
+    <link href="http://Vaysman.github.io/blog/2014/07/03/intieghrirovannaia-srieda-razrabotki-ide/"/>
+    <updated>2014-07-03T01:01:28+04:00</updated>
+    <id>http://Vaysman.github.io/blog/2014/07/03/intieghrirovannaia-srieda-razrabotki-ide</id>
     <content type="html"><![CDATA[<p><blockquote><p>Интегрированная среда разработки, ИСР (англ. IDE, Integrated development environment) — система программных средств, используемая программистами для разработки программного обеспечения (ПО).</p><footer><strong>Wikipedia <a href="http://ru.wikipedia.org/wiki/%D0%98%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F_%D1%81%D1%80%D0%B5%D0%B4%D0%B0_%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B8">http://ru.wikipedia.org/wiki/%D0%98%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F_%D1%81%D1%80%D0%B5%D0%B4%D0%B0_%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B8</a> IDE</strong></footer></blockquote></p>
 
 <!-- more -->
@@ -56,7 +56,7 @@
   <entry>
     <title type="html"><![CDATA[Коаны Java — путь к просветлению]]></title>
     <link href="http://Vaysman.github.io/blog/2014/06/23/koany-java-put-k-prosvietlieniiu/"/>
-    <updated>2014-06-23T19:40:49+00:00</updated>
+    <updated>2014-06-23T23:40:49+04:00</updated>
     <id>http://Vaysman.github.io/blog/2014/06/23/koany-java-put-k-prosvietlieniiu</id>
     <content type="html"><![CDATA[<p><blockquote><p>Коан (ко:ан, японская калька кит. 公案, гунъань) — короткое повествование, вопрос, диалог, обычно не имеющие логической подоплёки, зачастую содержащие алогизмы и парадоксы, доступные скорее интуитивному пониманию.</p></p><p><p>Коан — явление, специфическое для дзэн-буддизма (в особенности, для школы Риндзай). Цель коана — придать определённый психологический импульс ученику для возможности достижения просветления или понимания сути учения.</p><footer><strong>Wikipedia <a href="http://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%B0%D0%BD">http://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%B0%D0%BD</a> Коан</strong></footer></blockquote></p>
 
@@ -88,12 +88,12 @@
   <entry>
     <title type="html"><![CDATA[Книги которые стоит прочесть каждому начинающем. Часть 1.]]></title>
     <link href="http://Vaysman.github.io/blog/2014/06/12/knighi-kotoryie-stoit-prochiest-kazhdomu-nachinaiushchiemu/"/>
-    <updated>2014-06-12T09:19:55+00:00</updated>
+    <updated>2014-06-12T13:19:55+04:00</updated>
     <id>http://Vaysman.github.io/blog/2014/06/12/knighi-kotoryie-stoit-prochiest-kazhdomu-nachinaiushchiemu</id>
     <content type="html"><![CDATA[<p>В начале я думал назвать эту запись: 10 книг которые стоит прочесть каждому начинающему разработчику. Но начав перечислять, я обнаружил,
 что их больше, чем 10. Так что я решил убрать число из названия. Но фраза &ldquo;Часть 1&rdquo; намекает на продолжение этого списка.</p>
 
-<p>Книги перечислины без какой-то системы, просто как вспоминалось. Все книги рекомендую читать в оригинале, а не в переводе.
+<p>Книги перечислены без какой-то системы, просто как вспоминалось. Все книги рекомендую читать в оригинале, а не в переводе.
 Так же настоятельно рекомендую покупать книги. Тем самым вы поддержите авторов и снизите цену.</p>
 
 <!-- more -->
@@ -119,7 +119,7 @@
 <li>Robert C. “Uncle Bob” Martin <a href="http://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers-ebook/dp/B0050JLC9Y">&ldquo;The Clean Coder: A Code of Conduct for Professional Programmers&rdquo;</a><br/>
 В некотором роде продолжение предыдущей книги.</li>
 <li>Kent Beck <a href="http://www.amazon.com/Smalltalk-Best-Practice-Patterns-Kent-ebook/dp/B00BBDLIME">&ldquo;Smalltalk Best Practice Patterns&rdquo;</a><br/>
-Опять классика! Возможено вы не слышали о Smalltalk, но прочитать эту книгу стоит. Пусть вас не пугает незнакомый язык &ndash; большиство шаблонов будет понятно и без знания языка.</li>
+Опять классика! Возможно вы не слышали о Smalltalk, но прочитать эту книгу стоит. Пусть вас не пугает незнакомый язык &ndash; большинство шаблонов будет понятно и без знания языка.</li>
 </ul>
 
 
@@ -130,7 +130,7 @@
   <entry>
     <title type="html"><![CDATA[Книги для изучения Java с нуля]]></title>
     <link href="http://Vaysman.github.io/blog/2014/06/11/knighi-dlia-izuchieniia-java-s-nulia/"/>
-    <updated>2014-06-11T06:00:00+00:00</updated>
+    <updated>2014-06-11T10:00:00+04:00</updated>
     <id>http://Vaysman.github.io/blog/2014/06/11/knighi-dlia-izuchieniia-java-s-nulia</id>
     <content type="html"><![CDATA[<p>Если вы не знаете Java, то я рекомендую прочесть одну(или все) из этих книг. Лучше прочесть несколько раз. Первый раз бегло, сильно не вникая и не выполняя задания. А второй раз внимательно и выполняя все задания. Если задание не получается,
 то обязательно воспользуйтесь поиском и выясните в чем проблема.</p>

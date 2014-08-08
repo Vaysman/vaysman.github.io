@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: koan | Чёпопало о чёмнеподя]]></title>
-  <link href="http://Vaysman.github.io/blog/categories/koan/atom.xml" rel="self"/>
+  <title><![CDATA[Category: koans | Чёпопало о чёмнеподя]]></title>
+  <link href="http://Vaysman.github.io/blog/categories/koans/atom.xml" rel="self"/>
   <link href="http://Vaysman.github.io/"/>
-  <updated>2014-07-25T04:14:44+04:00</updated>
+  <updated>2014-08-08T20:40:22+04:00</updated>
   <id>http://Vaysman.github.io/</id>
   <author>
     <name><![CDATA[Mikhail Vaysman]]></name>

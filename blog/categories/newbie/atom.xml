@@ -4,7 +4,7 @@
   <title><![CDATA[Category: newbie | Чёпопало о чёмнеподя]]></title>
   <link href="http://Vaysman.github.io/blog/categories/newbie/atom.xml" rel="self"/>
   <link href="http://Vaysman.github.io/"/>
-  <updated>2014-08-08T20:40:22+04:00</updated>
+  <updated>2014-08-12T15:23:28+00:00</updated>
   <id>http://Vaysman.github.io/</id>
   <author>
     <name><![CDATA[Mikhail Vaysman]]></name>
@@ -14,9 +14,57 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Интегрированная среда разработки (IDE)]]></title>
+    <link href="http://Vaysman.github.io/blog/2014/07/02/intieghrirovannaia-srieda-razrabotki-ide/"/>
+    <updated>2014-07-02T21:01:28+00:00</updated>
+    <id>http://Vaysman.github.io/blog/2014/07/02/intieghrirovannaia-srieda-razrabotki-ide</id>
+    <content type="html"><![CDATA[<p><blockquote><p>Интегрированная среда разработки, ИСР (англ. IDE, Integrated development environment) — система программных средств, используемая программистами для разработки программного обеспечения (ПО).</p><footer><strong>Wikipedia <a href="http://ru.wikipedia.org/wiki/%D0%98%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F_%D1%81%D1%80%D0%B5%D0%B4%D0%B0_%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B8">http://ru.wikipedia.org/wiki/%D0%98%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F_%D1%81%D1%80%D0%B5%D0%B4%D0%B0_%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B8</a> IDE</strong></footer></blockquote></p>
+
+<!-- more -->
+
+
+<h2>Зачем?</h2>
+
+<p>Зачем она (IDE) нужна? Ведь большинство языков позволяют разрабатывать программы в простом редакторе (например, Notepad).</p>
+
+<p>Да, можно и в простом редакторе! Но, удобно ли? Любой профессиональный разработчик скажет, что это неудобно.</p>
+
+<p>IDE &ndash; это не просто редактор с подсветкой синтаксиса, автосохранением и возможностью вызова внешних команд. IDE &ndash; это удобный инструмент, который позволяет вам легко и быстро писать, запускать и отлаживать код. Используя IDE, вы уменьшаете количество ошибок и повышаете свою производительность.</p>
+
+<h2>Какую IDE выбрать?</h2>
+
+<p>Сейчас на рынке представлено множество различных IDE. Я рекомендую вам обратить свое внимание на <a href="http://www.jetbrains.com/idea/">IntellijIDEA</a>.</p>
+
+<p>Этот продукт давно уже вышел за рамки &ldquo;IDE для Java&rdquo; и сейчас поддерживает огромное количество языков.</p>
+
+<p>Существует 2 варианта этой IDE:</p>
+
+<ul>
+<li>Community Edition &ndash; полностью бесплатная IDE с открытым исходным кодом (всегда можно посмотреть как она написана). Она поддерживает ограниченный набор языков, включая:  Java, Scala, Groovy, Clojure и Kotlin.</li>
+<li>Ultimate Edition &ndash; коммерческая IDE. Поддерживает огромное количество языков, среди них: Java, PHP, JavaScript, ActionScript, Flex &amp; AIR, HTML/XHTML/CSS, XML/XSL, Ruby/ JRuby, Groovy, SQL, FreeMarker/Velocity, Scala.</li>
+</ul>
+
+
+<p>Стоимость последней довольно высока, но существуют возможности получить эту IDE совершенно бесплатно:</p>
+
+<ol>
+<li>Вы разрабатываете продукт с открытым исходным кодом <a href="http://www.jetbrains.com/idea/buy/choose_edition.jsp?license=OPEN_SOURCE">IntelliJIDEA Open Source License</a></li>
+<li>Вы используете Early Access Preview (EAP) версию <a href="http://confluence.jetbrains.com/display/IDEADEV/EAP">IntelliJIDEA EAP</a></li>
+</ol>
+
+
+<p>Если вы пойдете по второму пути, то вам придется регулярно обновлять IDE, так как срок ее работы ограничен по времени.</p>
+
+<p>Но самый простой и удобный способ &ndash; это приобрести лицензию. Для индивидуального разработчика лицензия стоит $199, а обновление &ndash; $99. На первый взгляд, сумма кажется большой, но, если вы подсчитаете время, которое вы сэкономите, используя IDEA, то вы увидите, что цена уже не выглядит такой пугающей.</p>
+
+<p>IDE &ndash; это основной инструмент разработчика. Хороший инструмент будет способствовать росту производительности и увеличению удовольствия от работы.</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Книги для изучения Ruby с нуля]]></title>
     <link href="http://Vaysman.github.io/blog/2014/06/16/knighi-dlia-izucheniia-ruby-s-nulia/"/>
-    <updated>2014-06-16T18:20:23+04:00</updated>
+    <updated>2014-06-16T14:20:23+00:00</updated>
     <id>http://Vaysman.github.io/blog/2014/06/16/knighi-dlia-izucheniia-ruby-s-nulia</id>
     <content type="html"><![CDATA[<p><a href="https://www.ruby-lang.org/ru/">Ruby</a> это динамический язык программирования с открытым исходным кодом с упором на простоту и продуктивность. Он обладает элегантным синтаксисом, который приятно читать и легко писать.</p>
 
@@ -42,7 +90,7 @@
   <entry>
     <title type="html"><![CDATA[Книги которые стоит прочесть каждому начинающем. Часть 1.]]></title>
     <link href="http://Vaysman.github.io/blog/2014/06/12/knighi-kotoryie-stoit-prochiest-kazhdomu-nachinaiushchiemu/"/>
-    <updated>2014-06-12T13:19:55+04:00</updated>
+    <updated>2014-06-12T09:19:55+00:00</updated>
     <id>http://Vaysman.github.io/blog/2014/06/12/knighi-kotoryie-stoit-prochiest-kazhdomu-nachinaiushchiemu</id>
     <content type="html"><![CDATA[<p>В начале я думал назвать эту запись: 10 книг которые стоит прочесть каждому начинающему разработчику. Но начав перечислять, я обнаружил,
 что их больше, чем 10. Так что я решил убрать число из названия. Но фраза &ldquo;Часть 1&rdquo; намекает на продолжение этого списка.</p>
@@ -84,7 +132,7 @@
   <entry>
     <title type="html"><![CDATA[Книги для изучения Java с нуля]]></title>
     <link href="http://Vaysman.github.io/blog/2014/06/11/knighi-dlia-izuchieniia-java-s-nulia/"/>
-    <updated>2014-06-11T10:00:00+04:00</updated>
+    <updated>2014-06-11T06:00:00+00:00</updated>
     <id>http://Vaysman.github.io/blog/2014/06/11/knighi-dlia-izuchieniia-java-s-nulia</id>
     <content type="html"><![CDATA[<p>Если вы не знаете Java, то я рекомендую прочесть одну(или все) из этих книг. Лучше прочесть несколько раз. Первый раз бегло, сильно не вникая и не выполняя задания. А второй раз внимательно и выполняя все задания. Если задание не получается,
 то обязательно воспользуйтесь поиском и выясните в чем проблема.</p>

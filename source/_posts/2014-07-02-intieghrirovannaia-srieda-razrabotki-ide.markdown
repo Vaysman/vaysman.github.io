@@ -3,7 +3,7 @@ layout: post
 title: "Интегрированная среда разработки (IDE)"
 date: 2014-07-02 21:01:28 +0000
 comments: true
-categories: [java, ruby, newbies, ide]
+categories: [java, ruby, newbie, ide]
 ---
 
 {% blockquote Wikipedia http://ru.wikipedia.org/wiki/%D0%98%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F_%D1%81%D1%80%D0%B5%D0%B4%D0%B0_%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B8 IDE %}

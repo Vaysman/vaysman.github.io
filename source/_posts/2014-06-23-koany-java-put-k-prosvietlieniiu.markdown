@@ -3,7 +3,7 @@ layout: post
 title: "Коаны Java — путь к просветлению"
 date: 2014-06-23 23:40:49 +0400
 comments: true
-categories: [java, newbies, koans]
+categories: [java, newbie, koans]
 ---
 
 {% blockquote Wikipedia http://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%B0%D0%BD Коан %}

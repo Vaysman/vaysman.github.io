@@ -22,7 +22,7 @@ categories: [book, newbie, must read, java, ruby]
 ## Список
 
 - Martin Fowler ["Patterns of Enterprise Application Architecture"](http://www.amazon.com/Enterprise-Application-Architecture-Addison-Wesley-Signature-ebook/dp/B008OHVDFM)  
-Не смотря на то, что эта книга написана более 10 лет назад, она своей актуальности не потеряла. Любой кто разрабатывает сложные системе должен хоть один раз ее прочитать. Книга содержит очень много решений сложных проблем. Решения описаны очень подробно. Множестов шаблонов, что в ней описаны могут быть вам уже знакомы и многие вы могли сами применять.
+Не смотря на то, что эта книга написана более 10 лет назад, она своей актуальности не потеряла. Любой кто разрабатывает сложные системы должен хоть один раз ее прочитать. Книга содержит очень много решений сложных проблем. Решения описаны очень подробно. Множестов шаблонов, что в ней описаны могут быть вам уже знакомы и многие вы могли сами применять.
 - Eric Evans ["Domain-Driven Design: Tackling Complexity in the Heart of Software"](http://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software-ebook/dp/B00794TAUG)  
 Еще одна неустаревающая книга. В ней очень хорошо рассмотренны вопросы архитектуры и проектирования сложных систем. Сейчас DDD очень популярен.
 - Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides ["Design Patterns: Elements of Reusable Object-Oriented Software"](http://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented-ebook/dp/B000SEIBB8)  

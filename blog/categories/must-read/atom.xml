@@ -4,7 +4,7 @@
   <title><![CDATA[Category: must read | Чёпопало о чёмнеподя]]></title>
   <link href="http://Vaysman.github.io/blog/categories/must-read/atom.xml" rel="self"/>
   <link href="http://Vaysman.github.io/"/>
-  <updated>2014-08-14T23:51:45+00:00</updated>
+  <updated>2014-09-03T00:58:38+00:00</updated>
   <id>http://Vaysman.github.io/</id>
   <author>
     <name><![CDATA[Mikhail Vaysman]]></name>
@@ -35,7 +35,7 @@
 
 <ul>
 <li>Martin Fowler <a href="http://www.amazon.com/Enterprise-Application-Architecture-Addison-Wesley-Signature-ebook/dp/B008OHVDFM">&ldquo;Patterns of Enterprise Application Architecture&rdquo;</a><br/>
-Не смотря на то, что эта книга написана более 10 лет назад, она своей актуальности не потеряла. Любой кто разрабатывает сложные системе должен хоть один раз ее прочитать. Книга содержит очень много решений сложных проблем. Решения описаны очень подробно. Множестов шаблонов, что в ней описаны могут быть вам уже знакомы и многие вы могли сами применять.</li>
+Не смотря на то, что эта книга написана более 10 лет назад, она своей актуальности не потеряла. Любой кто разрабатывает сложные системы должен хоть один раз ее прочитать. Книга содержит очень много решений сложных проблем. Решения описаны очень подробно. Множестов шаблонов, что в ней описаны могут быть вам уже знакомы и многие вы могли сами применять.</li>
 <li>Eric Evans <a href="http://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software-ebook/dp/B00794TAUG">&ldquo;Domain-Driven Design: Tackling Complexity in the Heart of Software&rdquo;</a><br/>
 Еще одна неустаревающая книга. В ней очень хорошо рассмотренны вопросы архитектуры и проектирования сложных систем. Сейчас DDD очень популярен.</li>
 <li>Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides <a href="http://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented-ebook/dp/B000SEIBB8">&ldquo;Design Patterns: Elements of Reusable Object-Oriented Software&rdquo;</a><br/>

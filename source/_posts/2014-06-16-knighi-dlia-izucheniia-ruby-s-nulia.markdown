@@ -14,10 +14,10 @@ categories: [book, newbie, ruby]
 
 ## Список
 
-1. Dave Thomas, with Chad Fowler and Andy Hunt ["Programming Ruby 1.9 & 2.0"](http://pragprog.com/book/ruby4/programming-ruby-1-9-2-0)  
+1. Dave Thomas, with Chad Fowler and Andy Hunt ["Programming Ruby 1.9 & 2.0"](http://amzn.to/1RSnWhV)  
 Прекрасная книга как для начинающего, так и для тех кто продолжает изучение языка. Помимо языка книга содержит справочник по стандартной библиотеке.
-1. Russ Olsen ["Eloquent Ruby"](http://www.amazon.com/Eloquent-Ruby-Addison-Wesley-Professional-Series-ebook/dp/B004MMEJ36/)  
+1. Russ Olsen ["Eloquent Ruby"](http://amzn.to/1MyHtQh)  
 Книга не только учит языку, но так же учит стилю и демонстрирует некоторые идиомы свойственные ruby.
-1. Sandi Metz ["Practical Object-Oriented Design in Ruby"](http://www.amazon.com/Practical-Object-Oriented-Design-Ruby-Addison-Wesley-ebook/dp/B0096BYG7C)  
+1. Sandi Metz ["Practical Object-Oriented Design in Ruby"](http://amzn.to/1SnVEfT)  
 Эту книгу должен прочитать каждый кто хочет использовать Rubу. Она просто великолепна!
 

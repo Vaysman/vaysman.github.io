@@ -4,7 +4,7 @@
   <title><![CDATA[Category: java | Чёпопало о чёмнеподя]]></title>
   <link href="http://Vaysman.github.io/blog/categories/java/atom.xml" rel="self"/>
   <link href="http://Vaysman.github.io/"/>
-  <updated>2015-11-04T13:42:20+01:00</updated>
+  <updated>2015-11-04T13:48:53+01:00</updated>
   <id>http://Vaysman.github.io/</id>
   <author>
     <name><![CDATA[Mikhail Vaysman]]></name>
@@ -114,19 +114,19 @@
 <h2>Список</h2>
 
 <ul>
-<li>Martin Fowler <a href="http://www.amazon.com/Enterprise-Application-Architecture-Addison-Wesley-Signature-ebook/dp/B008OHVDFM">&ldquo;Patterns of Enterprise Application Architecture&rdquo;</a><br/>
+<li>Martin Fowler <a href="http://amzn.to/20tGvz2">&ldquo;Patterns of Enterprise Application Architecture&rdquo;</a><br/>
 Не смотря на то, что эта книга написана более 10 лет назад, она своей актуальности не потеряла. Любой кто разрабатывает сложные системы должен хоть один раз ее прочитать. Книга содержит очень много решений сложных проблем. Решения описаны очень подробно. Множестов шаблонов, что в ней описаны могут быть вам уже знакомы и многие вы могли сами применять.</li>
-<li>Eric Evans <a href="http://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software-ebook/dp/B00794TAUG">&ldquo;Domain-Driven Design: Tackling Complexity in the Heart of Software&rdquo;</a><br/>
+<li>Eric Evans <a href="http://amzn.to/1MyK7W0">&ldquo;Domain-Driven Design: Tackling Complexity in the Heart of Software&rdquo;</a><br/>
 Еще одна неустаревающая книга. В ней очень хорошо рассмотренны вопросы архитектуры и проектирования сложных систем. Сейчас DDD очень популярен.</li>
-<li>Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides <a href="http://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented-ebook/dp/B000SEIBB8">&ldquo;Design Patterns: Elements of Reusable Object-Oriented Software&rdquo;</a><br/>
+<li>Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides <a href="http://amzn.to/20tGFX3">&ldquo;Design Patterns: Elements of Reusable Object-Oriented Software&rdquo;</a><br/>
 Это самая классическая классика! Gang of Four(GoF) &ndash; Банда Четырех. Когда кто-то говорит шаблон проектироваия (design pattern) все обычно вспоминают эту книгу. Читать ее не просто, но это стоит усилий.</li>
-<li>Steve McConnell <a href="http://www.amazon.com/Code-Complete-Developer-Best-Practices-ebook/dp/B00JDMPOSY">&ldquo;Code Complete (2nd Edition) (Developer Best Practices)&rdquo;</a><br/>
+<li>Steve McConnell <a href="http://amzn.to/1MyKhgj">&ldquo;Code Complete (2nd Edition) (Developer Best Practices)&rdquo;</a><br/>
 Эту книгу можно пропустить и вместо нее прочитать &ldquo;Clean Code&rdquo;.</li>
-<li>Robert C. “Uncle Bob” Martin <a href="http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship-ebook/dp/B001GSTOAM">&ldquo;Clean Code: A Handbook of Agile Software Craftsmanship&rdquo;</a><br/>
+<li>Robert C. “Uncle Bob” Martin <a href="http://amzn.to/1RSwQM9">&ldquo;Clean Code: A Handbook of Agile Software Craftsmanship&rdquo;</a><br/>
 Это книгу надо обязательно прочитать! Это книга не о коде, а о том как код взаимодествует с людьми. О том как выражать свои идеи в коде так, что бы было понятно другим.</li>
-<li>Robert C. “Uncle Bob” Martin <a href="http://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers-ebook/dp/B0050JLC9Y">&ldquo;The Clean Coder: A Code of Conduct for Professional Programmers&rdquo;</a><br/>
+<li>Robert C. “Uncle Bob” Martin <a href="http://amzn.to/20tGTgT">&ldquo;The Clean Coder: A Code of Conduct for Professional Programmers&rdquo;</a><br/>
 В некотором роде продолжение предыдущей книги.</li>
-<li>Kent Beck <a href="http://www.amazon.com/Smalltalk-Best-Practice-Patterns-Kent-ebook/dp/B00BBDLIME">&ldquo;Smalltalk Best Practice Patterns&rdquo;</a><br/>
+<li>Kent Beck <a href="http://amzn.to/20tH0Jq">&ldquo;Smalltalk Best Practice Patterns&rdquo;</a><br/>
 Опять классика! Возможно вы не слышали о Smalltalk, но прочитать эту книгу стоит. Пусть вас не пугает незнакомый язык &ndash; большинство шаблонов будет понятно и без знания языка.</li>
 </ul>
 

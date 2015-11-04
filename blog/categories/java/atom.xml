@@ -4,7 +4,7 @@
   <title><![CDATA[Category: java | Чёпопало о чёмнеподя]]></title>
   <link href="http://Vaysman.github.io/blog/categories/java/atom.xml" rel="self"/>
   <link href="http://Vaysman.github.io/"/>
-  <updated>2014-09-06T23:13:46+00:00</updated>
+  <updated>2015-11-04T13:35:04+01:00</updated>
   <id>http://Vaysman.github.io/</id>
   <author>
     <name><![CDATA[Mikhail Vaysman]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[Интегрированная среда разработки (IDE)]]></title>
     <link href="http://Vaysman.github.io/blog/2014/07/02/intieghrirovannaia-srieda-razrabotki-ide/"/>
-    <updated>2014-07-02T21:01:28+00:00</updated>
+    <updated>2014-07-02T23:01:28+02:00</updated>
     <id>http://Vaysman.github.io/blog/2014/07/02/intieghrirovannaia-srieda-razrabotki-ide</id>
     <content type="html"><![CDATA[<p><blockquote><p>Интегрированная среда разработки, ИСР (англ. IDE, Integrated development environment) — система программных средств, используемая программистами для разработки программного обеспечения (ПО).</p><footer><strong>Wikipedia <a href="http://ru.wikipedia.org/wiki/%D0%98%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F_%D1%81%D1%80%D0%B5%D0%B4%D0%B0_%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B8">http://ru.wikipedia.org/wiki/%D0%98%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F_%D1%81%D1%80%D0%B5%D0%B4%D0%B0_%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B8</a> IDE</strong></footer></blockquote></p>
 
@@ -64,7 +64,7 @@
   <entry>
     <title type="html"><![CDATA[Коаны Java — путь к просветлению]]></title>
     <link href="http://Vaysman.github.io/blog/2014/06/23/koany-java-put-k-prosvietlieniiu/"/>
-    <updated>2014-06-23T19:40:49+00:00</updated>
+    <updated>2014-06-23T21:40:49+02:00</updated>
     <id>http://Vaysman.github.io/blog/2014/06/23/koany-java-put-k-prosvietlieniiu</id>
     <content type="html"><![CDATA[<p><blockquote><p>Коан (ко:ан, японская калька кит. 公案, гунъань) — короткое повествование, вопрос, диалог, обычно не имеющие логической подоплёки, зачастую содержащие алогизмы и парадоксы, доступные скорее интуитивному пониманию.</p></p><p><p>Коан — явление, специфическое для дзэн-буддизма (в особенности, для школы Риндзай). Цель коана — придать определённый психологический импульс ученику для возможности достижения просветления или понимания сути учения.</p><footer><strong>Wikipedia <a href="http://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%B0%D0%BD">http://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%B0%D0%BD</a> Коан</strong></footer></blockquote></p>
 
@@ -96,7 +96,7 @@
   <entry>
     <title type="html"><![CDATA[Книги которые стоит прочесть каждому начинающем. Часть 1.]]></title>
     <link href="http://Vaysman.github.io/blog/2014/06/12/knighi-kotoryie-stoit-prochiest-kazhdomu-nachinaiushchiemu/"/>
-    <updated>2014-06-12T09:19:55+00:00</updated>
+    <updated>2014-06-12T11:19:55+02:00</updated>
     <id>http://Vaysman.github.io/blog/2014/06/12/knighi-kotoryie-stoit-prochiest-kazhdomu-nachinaiushchiemu</id>
     <content type="html"><![CDATA[<p>В начале я думал назвать эту запись: 10 книг которые стоит прочесть каждому начинающему разработчику. Но начав перечислять, я обнаружил,
 что их больше, чем 10. Так что я решил убрать число из названия. Но фраза &ldquo;Часть 1&rdquo; намекает на продолжение этого списка.</p>
@@ -138,7 +138,7 @@
   <entry>
     <title type="html"><![CDATA[Книги для изучения Java с нуля]]></title>
     <link href="http://Vaysman.github.io/blog/2014/06/11/knighi-dlia-izuchieniia-java-s-nulia/"/>
-    <updated>2014-06-11T06:00:00+00:00</updated>
+    <updated>2014-06-11T08:00:00+02:00</updated>
     <id>http://Vaysman.github.io/blog/2014/06/11/knighi-dlia-izuchieniia-java-s-nulia</id>
     <content type="html"><![CDATA[<p>Если вы не знаете Java, то я рекомендую прочесть одну(или все) из этих книг. Лучше прочесть несколько раз. Первый раз бегло, сильно не вникая и не выполняя задания. А второй раз внимательно и выполняя все задания. Если задание не получается,
 то обязательно воспользуйтесь поиском и выясните в чем проблема.</p>
@@ -156,9 +156,10 @@
 
 <ol>
 <li>Herbert Schildt <a href="http://www.amazon.com/Java-Complete-Reference-Ninth-Edition-ebook/dp/B00HSO0X6C">&ldquo;Java: The Complete Reference&rdquo;</a><br/>
-Герберт Шилдт <a href="http://www.ozon.ru/context/detail/id/8237920/">&ldquo;Java. Полное руководство&rdquo;</a></li>
-<li>Кей С. Хорстманн, Гари Корнелл <a href="http://www.ozon.ru/context/detail/id/25151213/">&ldquo;Java 2. Библиотека профессионала. Том 1. Основы.&rdquo;</a>, <a href="http://www.ozon.ru/context/detail/id/25151190/">&ldquo;Java. Библиотека профессионала. Том 2. Расширенные средства программирования.&rdquo;</a><br/>
-Cay S. Horstmann, Gary Cornell <a href="http://www.amazon.com/Core-Java-I--Fundamentals-9th-ebook/dp/B00ADQC2T8">&ldquo;Core Java Volume I&mdash;Fundamentals&rdquo;</a>, <a href="http://www.amazon.com/Core-Volume-II-Advanced-Features-Edition-ebook/dp/B00BNA1SHA">&ldquo;Core Java, Volume II&mdash;Advanced Features&rdquo;</a></li>
+Герберт Шилдт <a href="http://www.ozon.ru/context/detail/id/31249554/">&ldquo;Java. Полное руководство&rdquo;</a></li>
+<li>Cay S. Horstmann, Gary Cornell <a href="http://www.amazon.com/Core-Java-I--Fundamentals-9th-ebook/dp/B00ADQC2T8">&ldquo;Core Java Volume I&mdash;Fundamentals&rdquo;</a>, <a href="http://www.amazon.com/Core-Volume-II-Advanced-Features-Edition-ebook/dp/B00BNA1SHA">&ldquo;Core Java, Volume II&mdash;Advanced Features&rdquo;</a><br/>
+Кей С. Хорстманн, Гари Корнелл <a href="http://www.ozon.ru/context/detail/id/25151213/">&ldquo;Java 2. Библиотека профессионала. Том 1. Основы.&rdquo;</a>, <a href="http://www.ozon.ru/context/detail/id/25151190/">&ldquo;Java. Библиотека профессионала. Том 2. Расширенные средства пр\
+ограммирования.&rdquo;</a></li>
 <li>Kathy Sierra, Bert Bates <a href="http://www.amazon.com/Head-First-Java-Kathy-Sierra-ebook/dp/B009KCUX3S">&ldquo;Head First Java&rdquo;</a><br/>
 Кэти Сиерра, Берт Бейтс <a href="http://www.ozon.ru/context/detail/id/7821666/">&ldquo;Изучаем Java&rdquo;</a></li>
 <li>Bruce Eckel <a href="http://www.mindviewinc.com/Books/TIJ4/PurchaseBook.php">&ldquo;Thinking in Java, 4th Edition&rdquo;</a>, <a href="http://www.mindview.net/Books/TIJ/">&ldquo;Thinking in Java, 3rd Edition (FREE)&rdquo;</a><br/>

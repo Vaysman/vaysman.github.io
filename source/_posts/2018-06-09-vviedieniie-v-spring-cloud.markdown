@@ -19,7 +19,12 @@ Spring Cloud - это набор инструментов, который раз
 
 ## Зачем нужен Spring Cloud
 
+```java
+@SpringBootApplication
+public class Application {
 
+}
+```
 
 ## Докментация
 

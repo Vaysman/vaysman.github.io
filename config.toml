@@ -1,3 +1,7 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseURL = "https://vaysman.github.io/"
+languageCode = "ru-ru"
+title = "Персональный блог"
+theme = "hyde-hyde"
+
+[params]
+  themeColor = "theme-base-0f"
